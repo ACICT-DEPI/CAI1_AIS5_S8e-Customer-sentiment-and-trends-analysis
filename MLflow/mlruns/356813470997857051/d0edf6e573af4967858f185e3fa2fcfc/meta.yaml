@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/sentilment%20analysis/mlruns/356813470997857051/d0edf6e573af4967858f185e3fa2fcfc/artifacts
+end_time: 1727806831469
+entry_point_name: ''
+experiment_id: '356813470997857051'
+lifecycle_stage: active
+run_id: d0edf6e573af4967858f185e3fa2fcfc
+run_name: persistent-pig-965
+run_uuid: d0edf6e573af4967858f185e3fa2fcfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727806817705
+status: 4
+tags: []
+user_id: DELL

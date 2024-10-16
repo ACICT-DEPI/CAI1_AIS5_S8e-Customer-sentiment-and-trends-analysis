@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/sentilment%20analysis/mlruns/356813470997857051/af4650b112a848e590c533ec998bb75a/artifacts
+end_time: 1727808773178
+entry_point_name: ''
+experiment_id: '356813470997857051'
+lifecycle_stage: active
+run_id: af4650b112a848e590c533ec998bb75a
+run_name: intelligent-grub-657
+run_uuid: af4650b112a848e590c533ec998bb75a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727808760336
+status: 3
+tags: []
+user_id: DELL

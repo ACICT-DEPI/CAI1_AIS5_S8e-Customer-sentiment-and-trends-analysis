@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/sentilment%20analysis/mlruns/356813470997857051/0b3237680db34f3197cf79dc17fe7ed3/artifacts
+end_time: 1727807371798
+entry_point_name: ''
+experiment_id: '356813470997857051'
+lifecycle_stage: active
+run_id: 0b3237680db34f3197cf79dc17fe7ed3
+run_name: suave-calf-739
+run_uuid: 0b3237680db34f3197cf79dc17fe7ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727807335099
+status: 4
+tags: []
+user_id: DELL

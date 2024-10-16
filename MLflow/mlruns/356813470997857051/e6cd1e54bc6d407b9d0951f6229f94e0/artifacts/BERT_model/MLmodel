@@ -1,0 +1,18 @@
+artifact_path: BERT_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.7
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.0.1+cpu
+mlflow_version: 2.6.0
+model_uuid: 9c8311dca5e44ff59e516e42a41b9757
+run_id: e6cd1e54bc6d407b9d0951f6229f94e0
+utc_time_created: '2024-10-01 18:43:03.233724'
